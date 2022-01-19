@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Actor&family=Dancing+Script&family=Lobster&family=Quicksand:wght@300&family=Righteous&display=swap');
+
+#jpn{
+    display: none;
+}
+*{
+    font-family: 'Actor', sans-serif;
+    font-size: 20px;
+    text-align: left;
+    font-weight: bold;
+    color: #c1426d;
+}
+body{
+    background-image: url(https://wallpaperaccess.com/full/668382.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+button{
+    cursor: pointer;
+    border-radius: 5px;
+    background-color: whitesmoke;
+    border-radius: 1.5px solid black;
+    color: black;
+}
+button:hover{
+    background-color: thistle;
+}
+.hoseokiee{
+    font-size: 15px;
+}
+span{
+    font-size: 15px;
+}
+span:hover{
+    color: #23828f;
+    cursor: pointer;
+}
